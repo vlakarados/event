@@ -2,7 +2,8 @@
     "name": "fuelphp/event",
     "type": "library",
     "description": "Framework independent Event library.",
+    "license": "MIT",
     "autoload": {
-		"psr-0": { "FuelPHP\\Event": "src/" }
-	}
+        "psr-0": { "FuelPHP\\Event": "src/" }
+    }
 }
